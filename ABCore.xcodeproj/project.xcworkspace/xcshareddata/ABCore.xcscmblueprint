@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4073D8ADF69728A55CC36D46387D92105BF0D9B0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BE7363251AB1FFC9D9E84E71F5E93D8D69FD74F9" : 0,
+    "4FC1D5D68B41507578CA7C32EDCC53802795CF1A" : 0,
+    "4073D8ADF69728A55CC36D46387D92105BF0D9B0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "30284C0B-1807-42B1-A4D3-BAA0AA1A54D8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BE7363251AB1FFC9D9E84E71F5E93D8D69FD74F9" : "homeless",
+    "4FC1D5D68B41507578CA7C32EDCC53802795CF1A" : "tcs-icore",
+    "4073D8ADF69728A55CC36D46387D92105BF0D9B0" : "abcore"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ABCore",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ABCore.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/temaslizhik\/abcore.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4073D8ADF69728A55CC36D46387D92105BF0D9B0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/a.slizhik@stash.tcsbank.ru\/scm\/mob\/tcs-icore.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4FC1D5D68B41507578CA7C32EDCC53802795CF1A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/TheDimasig\/homeless.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BE7363251AB1FFC9D9E84E71F5E93D8D69FD74F9"
+    }
+  ]
+}

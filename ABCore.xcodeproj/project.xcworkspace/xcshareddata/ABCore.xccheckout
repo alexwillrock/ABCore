@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30284C0B-1807-42B1-A4D3-BAA0AA1A54D8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ABCore</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4073D8ADF69728A55CC36D46387D92105BF0D9B0</key>
+		<string>https://bitbucket.org/temaslizhik/abcore.git</string>
+		<key>4FC1D5D68B41507578CA7C32EDCC53802795CF1A</key>
+		<string>https://a.slizhik@stash.tcsbank.ru/scm/mob/tcs-icore.git</string>
+		<key>BE7363251AB1FFC9D9E84E71F5E93D8D69FD74F9</key>
+		<string>https://bitbucket.org/TheDimasig/homeless.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ABCore.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4073D8ADF69728A55CC36D46387D92105BF0D9B0</key>
+		<string>../..</string>
+		<key>4FC1D5D68B41507578CA7C32EDCC53802795CF1A</key>
+		<string>../../../tcs-icore</string>
+		<key>BE7363251AB1FFC9D9E84E71F5E93D8D69FD74F9</key>
+		<string>../../../homeless</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/temaslizhik/abcore.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4073D8ADF69728A55CC36D46387D92105BF0D9B0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4073D8ADF69728A55CC36D46387D92105BF0D9B0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>abcore</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE7363251AB1FFC9D9E84E71F5E93D8D69FD74F9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>homeless</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4FC1D5D68B41507578CA7C32EDCC53802795CF1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tcs-icore</string>
+		</dict>
+	</array>
+</dict>
+</plist>
